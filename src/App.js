@@ -85,7 +85,7 @@ function App() {
         <h1 class = "heading">Contact</h1>
         <p>Email: blockchad26@gmail.com</p>
         <p>Phone Number: 081 491 8222</p>
-        <a href="https://www.linkedin.com/in/tyrique-block-0b02b2244">Tyrique Block LinkedIn</a>
+        <a href=""></a>
     </section>
     
 </body>
