@@ -56,7 +56,7 @@ function App() {
                 that is always willing to learn and grow in the IT space. SovTech would also allow me to increase my 
                 skills and knowledge about software development. </p>
 
-                <p>And i believe that i could make a positive impact working at SovTech.</p>
+                <p>And i believe that i could make a positive impact working at SovTech.  dndjnfjdnf</p>
             </div>
         </div>
     </section>
