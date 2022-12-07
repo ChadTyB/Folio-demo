@@ -11,7 +11,7 @@ function App() {
 
         <body>
     <nav class = "navig">
-        <h1 class = "hed">Tyrique Block Portfolio</h1>
+        <h1 class = "hed"> Portfolio</h1>
         <ul class = "nav-links-container">
             <li class = "nav-link"><a href = "#home-section" class = "links active">Home</a></li>
             <li class = "nav-link"><a href = "#about-section" class = "links">About</a></li>
@@ -21,7 +21,7 @@ function App() {
 
     <header class = "header" id = "home-section">
         <div class = "content">
-            <h1 class = "header-heading">Hi, I am <span class = "brand-name">Tyrique <span>Block</span></span></h1>
+            <h1 class = "header-heading">Hi, I am <span class = "brand-name"> <span></span></span></h1>
 
         </div>
 
@@ -56,7 +56,7 @@ function App() {
                 that is always willing to learn and grow in the IT space. SovTech would also allow me to increase my 
                 skills and knowledge about software development. </p>
 
-                <p>And i believe that i could make a positive impact working at SovTech.  dndjnfjdnf</p>
+                <p>And i believe that i could make a positive impact working at........</p>
             </div>
         </div>
     </section>
@@ -83,8 +83,8 @@ function App() {
 
     <section id = "contact-section">
         <h1 class = "heading">Contact</h1>
-        <p>Email: blockchad26@gmail.com</p>
-        <p>Phone Number: 081 491 8222</p>
+        <p>Email: @gmail.com</p>
+        <p>Phone Number:</p>
         <a href=""></a>
     </section>
     
